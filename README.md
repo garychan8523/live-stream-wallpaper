@@ -1,10 +1,11 @@
 # live-stream-wallpaper
-by the time this project created, no similar python solution was found online. people have been looking for a python-implemented wallpaper engine alike program
+it's interesting to watch city live camera on youtube live stream
+this project allows you to set a youtube live stream as wallpaper
 
-"live wallpaper" mostly refer to gif/video as wallpaper, this solution gives the ability to use youtube live stream as wallpaper
-
-- allows you to use youtube live stream as wallpaper
-- implements using python tkinter, binded properly with win32gui background handle
+normally you would only able to set gif/video for wallpaper (using wallpaper engine etc)
+this is a python implementation(tkinter) for a wallpaper-engine-like program
+it's binded properly with win32gui background handle so it work perfectly as a wallpaper
+by the time this project created, seems no similar solution found online
 
 #### usage
 - install required libraries
